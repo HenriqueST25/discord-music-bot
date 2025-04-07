@@ -1,2 +1,7 @@
 discord.py
 yt-dlp
+discord.py
+yt-dlp
+ffmpeg-downloader
+PyNaCl
+ffmpeg-python
